@@ -96,7 +96,7 @@
         <dependency>
             <groupId>org.wildfly</groupId>
             <artifactId>wildfly-client-all</artifactId>
-            <version>23.0.2.Final</version>
+            <version>${version.org.wildfly}</version>
         </dependency>
 
         <!-- Just for Instrumentation -->
